@@ -130,6 +130,3 @@ Google Summer of Code 2025 Applicant
 ## License
 
 This project is licensed under the MIT License.
-
-```
-```
