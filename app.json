@@ -1,0 +1,18 @@
+{
+  "id": "faq-detection-assistant",
+  "name": "FAQ Detection Assistant",
+  "version": "0.1.0",
+  "requiredApiVersion": "^1.29.0",
+  "author": {
+    "name": "Your Name",
+    "email": "your@email.com"
+  },
+  "classFile": "FaqDetectionApp.ts",
+  "description": "Detects frequently asked questions and replies automatically.",
+  "permissions": [
+    "messages:read",
+    "messages:write",
+    "users:read",
+    "rooms:read"
+  ]
+}
